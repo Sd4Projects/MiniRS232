@@ -9,8 +9,4 @@ Finished Board Top View
 
 ![alt text](https://github.com/Sd4Projects/MiniRS232/blob/main/MiniRS232Top.jpg?raw=true "finishedboard")
 
-This is released under CERN Open Hardware v.1.2 License.
-
-Info at https://github.com/Sd4Projects/MiniRS232
-
-![alt text](https://github.com/Sd4Projects/MiniRS232/blob/main/MiniRS232Top.jpg?raw=true "MiniRS232 Top")
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/0ItCnNHv with project name MiniRS232_v4a.kicad_pcb or use source files and order from whoever you want.
